@@ -25,6 +25,8 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 #### Context:
 Leveraging customer information is paramount for most businesses. In the case of a bank, attributes of customers like the ones mentioned below can be crucial in strategizing a marketing campaign when launching a new product.
 
+![](/Images/Ensemble_Techniques.png)
+
 # [Project 5: Concrete performance model tuner](https://github.com/mvneema/Feature-Enginering-Model-Tuning)
 #### Context:
 Concrete is the most important material in civil engineering. The concrete compressive strength is a highly nonlinear function of age and ingredients. These ingredients include cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate. 
