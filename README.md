@@ -23,7 +23,7 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
 #### Context:
-Leveraging customer information is paramount for most businesses. In the case of a bank, attributes of customers like the ones mentioned below can be crucial in strategizing a marketing campaign when launching a new product.
+Leveraging customer information is paramount for most businesses. In the case of a bank, attributes of customers like (age,job,marital,education, average yearly balance,etc.) can be crucial in strategizing a marketing campaign when launching a new product.
 
 ![](/Images/Ensemble_Techniques.png)
 
@@ -39,3 +39,9 @@ Modeling of strength of high performance concrete using Machine Learning techniq
 The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles. Principle Component Analysis is used for this approach.
 
 ![](/Images/PCA.png)
+
+# [Project 7: Amazon Product Recommender System](https://github.com/mvneema/Amazon-Product-recommender-system)
+#### Objective:  
+Build a recommendation system to recommend products to  customers based on the their previous ratings for other  products. 
+
+![](/Images/recommendation.png)
